@@ -1,6 +1,6 @@
 import json, requests
 
-api_key = "YOUR_API_key"
+api_key = "YOUR_API_KEY" # api key is not for disclosing so mentioned YOUR_API_KEY you can log in and use your own api key to make it work.
 
 base_url = "http://api.openweathermap.org/data/2.5/weather?"
 
