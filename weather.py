@@ -29,7 +29,8 @@ if x['cod'] != "404":
             "\n humidity (in percentage) = " +
                 str(current_humidity) +
             "\n description = " +
-                str(weather_description))
+                str(weather_description) + 
+            "\n Have a Nice Day!" )
 
 else:
     print(" City Not Found ")
